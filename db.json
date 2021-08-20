@@ -1,0 +1,23 @@
+{
+    "PackageDetailData":[{
+        "id": 1,
+        "name": "Fiatal gazdál támogatása",
+        "category": "Állat",
+        "relevant_years": "2020-2030",
+        "range": "1000-2000",
+        "county": "Mures",
+        "township": "Silea-Nirajului",
+        "requirments": [
+            "Első feltétel",
+            "Második feltétel",
+            "Harmadik feltétel"
+        ],
+        "rules": [
+            "Első szabály",
+            "Második szabály",
+            "Harmadik szabály",
+            "Negyedik szabály"
+    ]
+    }
+]
+}
