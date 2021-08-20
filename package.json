@@ -1,0 +1,23 @@
+{
+  "name": "package-detail-api",
+  "version": "1.0.0",
+  "description": "Package detail api for package list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndreGyorfi/package-detail-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndreGyorfi/package-detail-api/issues"
+  },
+  "homepage": "https://github.com/EndreGyorfi/package-detail-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
